@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.env
+.DS_Store
+data/pharma.db
+data/*.csv
+outputs/plots/*.png
+.ipynb_checkpoints/
+*.egg-info/
+dist/
+build/
