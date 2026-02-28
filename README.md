@@ -1,6 +1,5 @@
 #  Pharma Sales Forecasting & Demand Planning
 
-> **Role targeting:** Commercial Insights Analyst · Forecasting Analyst · Field Reporting Analyst  
 > **Stack:** Python · SQL · pandas · scikit-learn · matplotlib · seaborn · SQLite
 
 ---
